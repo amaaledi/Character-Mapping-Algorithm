@@ -1,5 +1,5 @@
 # Character-Mapping-Algorithm
-This algorith will return all possible letter combinations that a number could represent.
+This algorithm will return all possible letter combinations that a number could represent.
 Input can be given as a string containing digits from 2-9.
 Each digit from 2-9 contains 3 or more characters of the English alphabet.
 
